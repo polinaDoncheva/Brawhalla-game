@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65ece1c2-4d5a-44b1-9e4a-74c914baee88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Brawhalla_like_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/doctor_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/wizard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/2dplatform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/461-4610714_game-platform-png-transparent-background-platform-for-game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/Wooden_platform_sprite_for_video_game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/baby_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/blue_sky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/chostt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/doctor_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/doctor_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/doctor_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/doctor_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/elenart-suelo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/evening background game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/fight_arena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/fight_arena_cut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/hoodie_girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/knight_girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/level-platform-game-asset-vector-49939500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/pink_sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/platform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/png-transparent-video-game-platform-game-5-miscellaneous-game-video-game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/pngtree-cute-ghost-ghostly-cute-ghost-halloween-halloween-ghost-png-image_3933462.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/restart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/starfield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/sword_girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/try_again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/try_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/warrior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/assets/wizard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/test_Environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/test_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/test_Players.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/test_helper_functions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cGc5L2X65DgFpfTqbrCqaC6B8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Environment.TestAttack.test_get_hit_rect.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Environment.TestLandscape.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Game.TestGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Game.TestGame.test_load_buttons.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Players.TestPlayer.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Players.TestRightPlayer.test_right_player_initialization.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_helper_functions.TestPygameFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_helper_functions.TestPygameFunctions.test_load_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Environment.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Game.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Players.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_helper_functions.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in unit_tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects/Brawhalla_like_game/unit_tests&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\Brawhalla_like_game\unit_tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\Brawhalla_like_game" />
+      <recent name="C:\Users\admin\PycharmProjects\Brawhalla_like_game\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Brawhalla_like_game" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Environment.TestAttack.test_get_hit_rect" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Brawhalla_like_game" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Environment.TestAttack.test_get_hit_rect&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Game.TestGame.test_load_buttons" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Brawhalla_like_game" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Game.TestGame.test_load_buttons&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Players.TestPlayer" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Brawhalla_like_game" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Players.TestPlayer&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Players.TestRightPlayer.test_right_player_initialization" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Brawhalla_like_game" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Players.TestRightPlayer.test_right_player_initialization&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests for test_Players.TestPlayer" />
+        <item itemvalue="Python tests.Python tests for test_Players.TestRightPlayer.test_right_player_initialization" />
+        <item itemvalue="Python tests.Python tests for test_Environment.TestAttack.test_get_hit_rect" />
+        <item itemvalue="Python tests.Python tests for test_Game.TestGame.test_load_buttons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65ece1c2-4d5a-44b1-9e4a-74c914baee88" name="Changes" comment="" />
+      <created>1707741171718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707741171718</updated>
+      <workItem from="1707741178577" duration="443000" />
+      <workItem from="1707742170689" duration="5185000" />
+      <workItem from="1707826295501" duration="32177000" />
+      <workItem from="1707896398065" duration="7154000" />
+      <workItem from="1707904394227" duration="18467000" />
+      <workItem from="1707939412489" duration="365000" />
+      <workItem from="1707984107128" duration="23746000" />
+      <workItem from="1708011855092" duration="39000" />
+      <workItem from="1708018112255" duration="1823000" />
+      <workItem from="1708035961177" duration="1965000" />
+      <workItem from="1708041235438" duration="2028000" />
+      <workItem from="1708076319705" duration="21255000" />
+      <workItem from="1708102007904" duration="1319000" />
+      <workItem from="1708106670809" duration="38062000" />
+      <workItem from="1708155083329" duration="324000" />
+      <workItem from="1708156664437" duration="5527000" />
+      <workItem from="1708162626038" duration="95000" />
+      <workItem from="1709141649717" duration="342000" />
+      <workItem from="1717927075191" duration="184000" />
+      <workItem from="1718389742081" duration="3000" />
+      <workItem from="1738322385875" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Brawhalla_like_game$main.coverage" NAME="main Coverage Results" MODIFIED="1709141793031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Brawhalla_like_game$.coverage" NAME=" Coverage Results" MODIFIED="1709141785810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_tests" />
+  </component>
+</project>
